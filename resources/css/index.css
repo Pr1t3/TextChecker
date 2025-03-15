@@ -1,0 +1,22 @@
+#userText {
+    border: 1px solid #ccc;
+    width: 100%;
+    min-height: 100px;
+    margin-bottom: 10px;
+}
+#userText strong {
+    font-weight: bold;
+}
+.wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.user-text-div {
+    width:48%;
+    margin: 0 1% 0 1%;
+}
+.history-div {
+    width: 48%;
+    margin: 0 1% 0 1%;
+}
